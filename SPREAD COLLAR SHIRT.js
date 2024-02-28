@@ -106,28 +106,36 @@ function MM_swapImage() { //v3.0
           </table></td>
           <td width="1273"><table width="1273" height="828" border="0" cellpadding="1" cellspacing="1">
             <tr>
-              <td width="534" height="826"><div align="center"><img src="exclusive-cotton-white-spread-collar-shirt-dgrie-5-740x1110.jpeg" width="337" height="486" /></div>
-                <table width="495" height="281" border="0" cellpadding="1" cellspacing="1">
+              <td width="534" height="826"><div align="center"><img src="exclusive-cotton-white-spread-collar-shirt-dgrie-5-740x1110.jpeg" width="337" height="486" /> <table width="100" border="0" cellspacing="1" cellpadding="1">
                   <tr>
-                    <td width="9" height="279">&nbsp;</td>
-                    <td width="9">&nbsp;</td>
-                    <td width="467"><div align="center"><a href="https://www.dgrie.com/blog/exclusive-cotton-white-spread-collar-shirt/"><button class="btn-4">	
+                    <td><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
               Buy 
               </button></div></td>
-                    
                   </tr>
-              </table></td>
-              <td width="187">&nbsp;</td>
-              <td width="542"><div align="center"><img src="R2-11_1024x1024 (2).png" width="436" height="486" /></div>
-                <table width="542" height="285" border="0" cellpadding="1" cellspacing="1">
+                </table></div></td>
+               <td width="355"><h1 align="center" style="font-size:80px;font-family:'BankGothic Lt Bt'">SPREAD COLLAR SHIRT</h1>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                &nbsp;</td>
+              <td width="542"><div align="center"><img src="R2-11_1024x1024 (2).png" width="436" height="486" /> <table width="100" border="0" cellspacing="1" cellpadding="1">
                   <tr>
-                    <td>&nbsp;</td>
-                    <td><div align="center"><a href="https://www.thetwentysecond.com/collections/gio-linen-spread-collar-shirt/products/gio-linen-spread-collar-shirt-navy"><button class="btn-4">	
+                    <td><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
               Buy 
               </button></div></td>
-                    <td>&nbsp;</td>
                   </tr>
-          </table>
+                </table></div>
                 <div align="center"></div></td>
             </tr>
           </table></td>

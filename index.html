@@ -80,28 +80,28 @@ function MM_swapImage() { //v3.0
         <tr>
           <td width="324" height="830"><table width="323" height="647" border="0" cellpadding="1" cellspacing="1">
             <tr>
-              <td width="319" height="102"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','16.png',1)"><img src="15.png" width="320" height="100" id="Image15" /></a></td>
+              <td width="319" height="102"><a href="https://hanasuneuwu.github.io/Home/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','16.png',1)"><img src="15.png" width="320" height="100" id="Image15" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','2.png',1)"><img src="1.png" width="320" height="100" id="Image11" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/SLIM-FIT-SHIRT/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','2.png',1)"><img src="1.png" width="320" height="100" id="Image11" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','4.png',1)"><img src="3.png" width="320" height="100" id="Image12" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/SPREAD-COLLAR-SHIRT/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','4.png',1)"><img src="3.png" width="320" height="100" id="Image12" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','6.png',1)"><img src="5.png" width="320" height="100" id="Image6" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/RCS/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','6.png',1)"><img src="5.png" width="320" height="100" id="Image6" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','8.png',1)"><img src="7.png" width="320" height="100" id="Image7" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/RFS/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','8.png',1)"><img src="7.png" width="320" height="100" id="Image7" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','10.png',1)"><img src="9.png" width="320" height="100" id="Image8" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/LF/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','10.png',1)"><img src="9.png" width="320" height="100" id="Image8" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','12.png',1)"><img src="11.png" width="320" height="100" id="Image9" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/CS/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','12.png',1)"><img src="11.png" width="320" height="100" id="Image9" /></a></td>
             </tr>
             <tr>
-              <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','14.png',1)"><img src="13.png" width="320" height="100" id="Image10" /></a></td>
+              <td><a href="https://hanasuneuwu.github.io/BDS/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','14.png',1)"><img src="13.png" width="320" height="100" id="Image10" /></a></td>
             </tr>
           </table></td>
           <td width="1273"><table width="1273" height="828" border="0" cellpadding="1" cellspacing="1">
